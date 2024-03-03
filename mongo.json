@@ -1,0 +1,87 @@
+[
+  {
+    "user_id": 1,
+    "name": "Alice",
+    "email": "alice@example.com",
+    "role": "student"
+  },
+  {
+    "user_id": 2,
+    "name": "Bob",
+    "email": "bob@example.com",
+    "role": "mentor"
+  },
+  {
+    "user_id": 3,
+    "name": "Charlie",
+    "email": "charlie@example.com",
+    "role": "student"
+  },
+  {
+    "user_id": 1,
+    "problems_solved": 10
+  },
+  {
+    "user_id": 2,
+    "problems_solved": 15
+  },
+  {
+    "user_id": 3,
+    "problems_solved": 5
+  },
+  {
+    "user_id": 1,
+    "date": "2020-10-15",
+    "status": "present"
+  },
+  {
+    "user_id": 2,
+    "date": "2020-10-15",
+    "status": "absent"
+  },
+  {
+    "user_id": 3,
+    "date": "2020-10-15",
+    "status": "present"
+  },
+  {
+    "topic_id": 1,
+    "topic_name": "MongoDB",
+    "date": "2020-10-05"
+  },
+  {
+    "topic_id": 2,
+    "topic_name": "Express.js",
+    "date": "2020-10-10"
+  },
+  {
+    "task_id": 1,
+    "task_name": "Project Report",
+    "date": "2020-10-20"
+  },
+  {
+    "task_id": 2,
+    "task_name": "Code Review",
+    "date": "2020-10-25"
+  },
+  {
+    "drive_id": 1,
+    "company_name": "ABC Corp",
+    "date": "2020-10-18"
+  },
+  {
+    "drive_id": 2,
+    "company_name": "XYZ Ltd",
+    "date": "2020-10-30"
+  },
+  {
+    "mentor_id": 1,
+    "mentor_name": "John Doe",
+    "mentee_count": 20
+  },
+  {
+    "mentor_id": 2,
+    "mentor_name": "Jane Smith",
+    "mentee_count": 10
+  }
+]
